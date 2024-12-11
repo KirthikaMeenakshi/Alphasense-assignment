@@ -48,7 +48,7 @@ alphasense-assignment/
 1. Clone the repository: [Note: Please let me know if you need access to git URL. To use zip file proceed to step 2]
    ```bash
    git clone <repository-url>
-   cd alphasense.assignment
+   cd alphasense-assignment
    ```
 
 2. Unzip the project to a folder.
@@ -64,7 +64,7 @@ alphasense-assignment/
 4. Run the project using CLI 
    1. Go to the project path:
    ```bash
-    cd alphasense.assignment 
+    cd alphasense-assignment 
    ```
    2. Compile the project
    ```bash
